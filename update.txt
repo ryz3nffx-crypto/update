@@ -1,2 +1,0 @@
-1.0.0
-https://raw.githubusercontent.com/<YourUser>/<Repo>/main/MyApp.exe
